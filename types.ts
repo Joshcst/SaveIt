@@ -89,7 +89,7 @@ export type CategoryType = {
     bgColor: string;
 }
 
-export type ExpenseCategoresType = {
+export type ExpenseCategoriesType = {
     [key: string]: CategoryType;
 }
 
